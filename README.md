@@ -7,3 +7,4 @@ why isn't this working?
 This is a line from RStudio
 Line added from GitHub
 another line from RStudio
+another line from Github
